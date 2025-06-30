@@ -13,14 +13,6 @@
 
 ---
 
-## Demo
-
-<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="150"/>
-
-> <a href="https://addr2coordhangjeongdong.streamlit.app"> 클릭 </a>
-
----
-
 ## Installation
 
 ```bash
