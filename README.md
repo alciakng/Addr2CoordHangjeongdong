@@ -17,7 +17,7 @@
 
 <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="150"/>
 
-> Coming soon! (Streamlit Cloud or your own server)
+> 
 
 ---
 
