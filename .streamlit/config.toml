@@ -1,0 +1,13 @@
+[theme]
+base="dark"
+primaryColor="#3C8DBC"               # 푸른빛 포인트 컬러 (버튼 등)
+backgroundColor="#0D1B2A"            # 거의 검은 네이비 배경
+secondaryBackgroundColor="#1B263B"   # 약간 밝은 서브 배경
+textColor="#E0E1DD"                  # 밝은 회색 계열 글자
+font="sans serif"
+
+[kakao]
+api_key = "386797ea7e88e3189c4ae3389f5e13c6"
+
+[vworld]
+api_key = "248F6D1B-0D46-3D34-85E2-0463D838D5CB"
