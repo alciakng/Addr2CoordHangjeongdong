@@ -34,12 +34,12 @@ pip install -r requirements.txt
 ## Setup (API Keys)
 
 1. Create a file: .streamlit/secrets.toml
-
+```
 [kakao]
 api_key = "YOUR_KAKAO_REST_API_KEY"
-
 [vworld]
 api_key = "YOUR_VWORLD_API_KEY"
+```
 
 2. Make sure .streamlit/secrets.toml is in your .gitignore (included by default).
 
