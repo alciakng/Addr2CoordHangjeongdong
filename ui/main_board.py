@@ -19,9 +19,6 @@ def main_board():
     kakao_key = st.secrets["kakao"]["api_key"]
     vworld_key = st.secrets["vworld"]["api_key"]
 
-    st.markdown("kakao_key" + kakao_key)
-    st.markdown("vworld_key"+ vworld_key)
-
     st.markdown("### 📄 엑셀 파일 업로드")
     uploaded_file = st.file_uploader("주소가 포함된 엑셀 파일 업로드", type=['xlsx', 'xls'])
 
